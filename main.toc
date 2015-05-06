@@ -1,0 +1,72 @@
+\contentsline {chapter}{Declaration of Authorship}{i}{dummy.1}
+\vspace {1em}
+\contentsline {chapter}{Abstract}{iii}{dummy.2}
+\vspace {1em}
+\contentsline {chapter}{Acknowledgements}{iv}{dummy.3}
+\vspace {1em}
+\contentsline {chapter}{Contents}{v}{dummy.4}
+\contentsline {chapter}{List of Figures}{viii}{dummy.6}
+\contentsline {chapter}{List of Tables}{ix}{dummy.8}
+\contentsline {chapter}{Abbreviations}{x}{dummy.10}
+\contentsline {chapter}{Physical Constants}{xi}{dummy.13}
+\contentsline {chapter}{Symbols}{xii}{dummy.16}
+\vspace {2em}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.19}
+\contentsline {section}{\numberline {1.1}Wireless Sensor Networks}{1}{section.20}
+\contentsline {subsection}{\numberline {1.1.1}Application}{1}{subsection.21}
+\contentsline {subsection}{\numberline {1.1.2}Challenges}{1}{subsection.22}
+\contentsline {section}{\numberline {1.2}Mobile Wireless Sensor network}{1}{section.23}
+\contentsline {subsection}{\numberline {1.2.1}Application}{1}{subsection.24}
+\contentsline {subsection}{\numberline {1.2.2}Challenges}{1}{subsection.25}
+\contentsline {section}{\numberline {1.3}Cross Layer Architecture}{2}{section.26}
+\contentsline {subsection}{\numberline {1.3.1}Overview}{2}{subsection.27}
+\contentsline {subsection}{\numberline {1.3.2}Need for Cross Layer Architecture}{2}{subsection.28}
+\contentsline {chapter}{\numberline {2}Background}{3}{chapter.29}
+\contentsline {section}{\numberline {2.1}Challenges}{3}{section.30}
+\contentsline {section}{\numberline {2.2}Mobility-aware MAC protocols}{3}{section.31}
+\contentsline {subsection}{\numberline {2.2.1}Challenges}{3}{subsection.32}
+\contentsline {subsection}{\numberline {2.2.2}Existing Techniques}{3}{subsection.33}
+\contentsline {subsubsection}{\numberline {2.2.2.1}MS-MAC}{3}{subsubsection.35}
+\contentsline {subsubsection}{\numberline {2.2.2.2}M-MAC}{4}{subsubsection.37}
+\contentsline {subsubsection}{\numberline {2.2.2.3}M-TDMA}{4}{subsubsection.39}
+\contentsline {subsubsection}{\numberline {2.2.2.4}MA-MAC}{5}{subsubsection.41}
+\contentsline {subsubsection}{\numberline {2.2.2.5}Mobisense}{6}{subsubsection.43}
+\contentsline {section}{\numberline {2.3}Opportunistic Routing}{6}{section.44}
+\contentsline {subsection}{\numberline {2.3.1}ROF: Receiver based Opportunistic Forwarding}{7}{subsection.45}
+\contentsline {subsection}{\numberline {2.3.2}OR-RSSI}{8}{subsection.46}
+\contentsline {section}{\numberline {2.4}Time Synchronization}{9}{section.49}
+\contentsline {subsection}{\numberline {2.4.1}Need for Time Synchronization}{9}{subsection.50}
+\contentsline {subsection}{\numberline {2.4.2}Existing Techniques}{9}{subsection.51}
+\contentsline {subsubsection}{\numberline {2.4.2.1}RBS: Reference Broadcast Synchronization}{9}{subsubsection.52}
+\contentsline {subsubsection}{\numberline {2.4.2.2}TSPN: Timing-sync for sensor networks}{9}{subsubsection.53}
+\contentsline {subsubsection}{\numberline {2.4.2.3}FTSP: Flooding Time Synchronization Protocol}{9}{subsubsection.54}
+\contentsline {section}{\numberline {2.5}Mobility Estimation}{9}{section.55}
+\contentsline {subsection}{\numberline {2.5.1}Challenges}{9}{subsection.56}
+\contentsline {subsection}{\numberline {2.5.2}Techniques}{9}{subsection.57}
+\contentsline {chapter}{\numberline {3}Proposal}{10}{chapter.58}
+\contentsline {section}{\numberline {3.1}DS-MMAC}{10}{section.59}
+\contentsline {subsection}{\numberline {3.1.1}Problem Statement and Assumptions}{11}{subsection.60}
+\contentsline {subsection}{\numberline {3.1.2}Algorithm}{11}{subsection.61}
+\contentsline {subsubsection}{\numberline {3.1.2.1}Network Initialization}{11}{subsubsection.62}
+\contentsline {subsubsection}{\numberline {3.1.2.2}Discovery Request Phase}{12}{subsubsection.63}
+\contentsline {subsubsection}{\numberline {3.1.2.3}Discovery Reply Phase}{13}{subsubsection.65}
+\contentsline {subsubsection}{\numberline {3.1.2.4}Schedule Phase}{13}{subsubsection.67}
+\contentsline {subsubsection}{\numberline {3.1.2.5}Data Phase}{13}{subsubsection.69}
+\contentsline {section}{\numberline {3.2}CA-MMAC}{16}{section.72}
+\contentsline {subsection}{\numberline {3.2.1}Problem Statement}{17}{subsection.73}
+\contentsline {subsection}{\numberline {3.2.2}Assumptions}{17}{subsection.74}
+\contentsline {subsection}{\numberline {3.2.3}Assignment Problem}{17}{subsection.75}
+\contentsline {subsection}{\numberline {3.2.4}Algorithm}{18}{subsection.77}
+\contentsline {subsubsection}{\numberline {3.2.4.1}Synchronization}{18}{subsubsection.78}
+\contentsline {subsubsection}{\numberline {3.2.4.2}Meta Phase}{19}{subsubsection.79}
+\contentsline {subsubsection}{\numberline {3.2.4.3}Schedule}{19}{subsubsection.81}
+\contentsline {subsubsection}{\numberline {3.2.4.4}Data Phase}{20}{subsubsection.82}
+\contentsline {chapter}{\numberline {4}Simulation and Results}{22}{chapter.84}
+\contentsline {section}{\numberline {4.1}Simulator used}{22}{section.85}
+\contentsline {section}{\numberline {4.2}Performance Evaluation}{22}{section.86}
+\contentsline {section}{\numberline {4.3}Scope}{25}{section.93}
+\contentsline {chapter}{\numberline {5}Conclusion}{26}{chapter.94}
+\vspace {2em}
+\contentsline {chapter}{\numberline {A}Appendix Title Here}{27}{appendix.95}
+\vspace {2em}
+\contentsline {chapter}{Bibliography}{28}{dummy.96}

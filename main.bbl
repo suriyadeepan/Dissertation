@@ -1,0 +1,96 @@
+\begin{thebibliography}{13}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Pham and Jha(2004)]{ms-mac}
+Huan Pham and Sanjay Jha.
+\newblock An adaptive mobility-aware mac protocol for sensor networks (ms-mac).
+\newblock In \emph{Mobile Ad-hoc and Sensor Systems, 2004 IEEE International
+  Conference on}, pages 558--560. IEEE, 2004.
+
+\bibitem[Ye et~al.(2002)Ye, Heidemann, and Estrin]{smac}
+Wei Ye, John Heidemann, and Deborah Estrin.
+\newblock An energy-efficient mac protocol for wireless sensor networks.
+\newblock In \emph{INFOCOM 2002. Twenty-First Annual Joint Conference of the
+  IEEE Computer and Communications Societies. Proceedings. IEEE}, volume~3,
+  pages 1567--1576. IEEE, 2002.
+
+\bibitem[Ali et~al.(2005)Ali, Suleman, and Uzmi]{m-mac}
+Muneeb Ali, Tashfeen Suleman, and Zartash~Afzal Uzmi.
+\newblock Mmac: A mobility-adaptive, collision-free mac protocol for wireless
+  sensor networks.
+\newblock In \emph{Performance, Computing, and Communications Conference, 2005.
+  IPCCC 2005. 24th IEEE International}, pages 401--407. IEEE, 2005.
+
+\bibitem[Jhumka and Kulkarni(2007)]{m-tdma}
+Arshad Jhumka and Sandeep Kulkarni.
+\newblock On the design of mobility-tolerant tdma-based media access control
+  (mac) protocol for mobile sensor networks.
+\newblock In \emph{Distributed Computing and Internet Technology}, pages
+  42--53. Springer, 2007.
+
+\bibitem[Demirbas et~al.(2006)Demirbas, Arora, Mittal, and Kulathumani]{floc}
+Murat Demirbas, Anish Arora, Vineet Mittal, and Vinodkrishnan Kulathumani.
+\newblock A fault-local self-stabilizing clustering service for wireless ad hoc
+  networks.
+\newblock \emph{Parallel and Distributed Systems, IEEE Transactions on},
+  17\penalty0 (9):\penalty0 912--922, 2006.
+
+\bibitem[Zhiyong and Dargie(2010)]{ma-mac}
+Tang Zhiyong and Waltenegus Dargie.
+\newblock A mobility-aware medium access control protocol for wireless sensor
+  networks.
+\newblock In \emph{GLOBECOM Workshops (GC Wkshps), 2010 IEEE}, pages 109--114.
+  IEEE, 2010.
+
+\bibitem[Gonga et~al.(2011)Gonga, Landsiedel, and Johansson]{mobisense}
+Antonio Gonga, Olaf Landsiedel, and Mikael Johansson.
+\newblock Mobisense: Power-efficient micro-mobility in wireless sensor
+  networks.
+\newblock In \emph{Distributed Computing in Sensor Systems and Workshops
+  (DCOSS), 2011 International Conference on}, pages 1--8. IEEE, 2011.
+
+\bibitem[Biswas and Morris(2005)]{exor}
+Sanjit Biswas and Robert Morris.
+\newblock Exor: opportunistic multi-hop routing for wireless networks.
+\newblock In \emph{ACM SIGCOMM Computer Communication Review}, volume~35, pages
+  133--144. ACM, 2005.
+
+\bibitem[Li et~al.(2008)Li, Sun, Ma, and Chen]{rof}
+Lian Li, Limin Sun, Jian Ma, and Canfeng Chen.
+\newblock A receiver-based opportunistic forwarding protocol for mobile sensor
+  networks.
+\newblock In \emph{Distributed Computing Systems Workshops, 2008. ICDCS'08.
+  28th International Conference on}, pages 198--203. IEEE, 2008.
+
+\bibitem[Huo and Wang(2008)]{or-rssi}
+Guangcheng Huo and Xiaodong Wang.
+\newblock An opportunistic routing for mobile wireless sensor networks based on
+  rssi.
+\newblock In \emph{Wireless Communications, Networking and Mobile Computing,
+  2008. WiCOM'08. 4th International Conference on}, pages 1--4. IEEE, 2008.
+
+\bibitem[Das et~al.(2003)Das, Belding-Royer, and Perkins]{aodv}
+Samir~R Das, Elizabeth~M Belding-Royer, and Charles~E Perkins.
+\newblock Ad hoc on-demand distance vector (aodv) routing.
+\newblock 2003.
+
+\bibitem[Srikanth et~al.(2011)Srikanth, Harish, and Bhattacharjee]{hmac}
+B~Srikanth, M~Harish, and R~Bhattacharjee.
+\newblock An energy efficient hybrid mac protocol for wsn containing mobile
+  nodes.
+\newblock In \emph{Information, Communications and Signal Processing (ICICS)
+  2011 8th International Conference on}, pages 1--5. IEEE, 2011.
+
+\bibitem[Heinzelman et~al.(2000)Heinzelman, Chandrakasan, and
+  Balakrishnan]{leach}
+Wendi~Rabiner Heinzelman, Anantha Chandrakasan, and Hari Balakrishnan.
+\newblock Energy-efficient communication protocol for wireless microsensor
+  networks.
+\newblock In \emph{System sciences, 2000. Proceedings of the 33rd annual Hawaii
+  international conference on}, pages 10--pp. IEEE, 2000.
+
+\end{thebibliography}
